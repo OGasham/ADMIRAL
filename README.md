@@ -10,28 +10,13 @@ This WhatsApp bot is developed using the Baileys library and is designed to simp
 
 <div align="center"> 
   <a href="https://i.postimg.cc/8Pxc3g7k/bot-image.jpg"> 
-    <img src="https://i.postimg.cc/8Pxc3g7k/bot-image.jpg" alt="Knight Bot" height="300"> 
+    <img src="https://i.postimg.cc/8Pxc3g7k/bot-image.jpg" alt="Admiral Bot" height="300"> 
   </a> 
 </div>
 
 ---
 
-## 🚀 Steps to Deploy
-
-### Step 1: Fork the Repository
-
-Click the button below to fork the Knight Bot repository to your GitHub account:
-
-<div align="center">
-  <a href="https://github.com/OGasham/ADMIRAL">
-    <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
-  </a>
-</div>
-
----
-
-
-### Join Us
+### Telegram
 
 <div align="center">
   <a href="https://t.me/+YaqIb9lxLxwyYjgy">
