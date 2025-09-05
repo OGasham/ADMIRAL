@@ -1,16 +1,16 @@
 # 🤖 ADMIRAL
 
-Bu WhatsApp botu, Baileys kütüphanesi kullanılarak geliştirilmiş olup grup yönetimini kolaylaştırmak amacıyla tasarlanmıştır.Bot, grup içindeki düzeni korumak ve yönetimi otomatikleştirmek için faydalı özellikler sunar.Kullanımı oldukça kolaydır ve WhatsApp gruplarında etkili bir yönetim imkânı sağlar.  
+This WhatsApp bot is developed using the Baileys library and is designed to simplify group management. It offers useful features to maintain order within the group and automate administrative tasks. The bot is easy to use and provides effective management capabilities for WhatsApp groups.
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Professor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Knight-Bot;Multi+Device+Whatsapp+Bot;Coded+By+Admiral" alt="Typing SVG" />
   </a> 
 </div> 
 
 <div align="center"> 
-  <a href="https://youtube.com/@mr_unique_hacker"> 
-    <img src="https://i.postimg.cc/Xq0xL3rv/image-1756925113239.jpg" alt="Knight Bot" height="300"> 
+  <a href="https://i.postimg.cc/8Pxc3g7k/bot-image.jpg"> 
+    <img src="https://i.postimg.cc/8Pxc3g7k/bot-image.jpg" alt="Knight Bot" height="300"> 
   </a> 
 </div>
 
@@ -23,7 +23,7 @@ Bu WhatsApp botu, Baileys kütüphanesi kullanılarak geliştirilmiş olup grup 
 Click the button below to fork the Knight Bot repository to your GitHub account:
 
 <div align="center">
-  <a href="https://github.com/mruniquehacker/Knightbot-MD/fork">
+  <a href="https://github.com/OGasham/ADMIRAL">
     <img src="https://img.shields.io/badge/Fork-Repository-blue?style=for-the-badge" alt="Fork the repository"/>
   </a>
 </div>
