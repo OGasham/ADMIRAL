@@ -1,6 +1,6 @@
 # 🤖 ADMIRAL
 
-This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
+Bu WhatsApp botu, Baileys kütüphanesi kullanılarak geliştirilmiş olup grup yönetimini kolaylaştırmak amacıyla tasarlanmıştır.Bot, grup içindeki düzeni korumak ve yönetimi otomatikleştirmek için faydalı özellikler sunar.Kullanımı oldukça kolaydır ve WhatsApp gruplarında etkili bir yönetim imkânı sağlar.  
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
@@ -154,7 +154,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 🌟 Show your support
 
-If you like this project, please give it a [⭐️ star on GitHub](https://github.com/mruniquehacker/Knightbot)!
+If you like this project, please give it a [⭐️ star on GitHub](https://github.com/OGasham/ADMIRAL/)!
 
 
 ## Credits
