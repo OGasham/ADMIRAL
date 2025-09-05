@@ -4,7 +4,7 @@ This WhatsApp bot is developed using the Baileys library and is designed to simp
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Nexa-Round&size=50&pause=1000&color=0000FF&center=true&width=910&height=100&lines=Admiral-Bot;Multi+Device+Whatsapp+Bot;Good+Uses" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye-Bold&size=50&pause=1000&color=0000FF&center=true&width=910&height=100&lines=Admiral-Bot;Multi+Device+Whatsapp+Bot;Good+Uses" alt="Typing SVG" />
   </a> 
 </div> 
 
