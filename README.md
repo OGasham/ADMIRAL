@@ -41,11 +41,6 @@ Click the button below to fork the Knight Bot repository to your GitHub account:
 
 --- 
 
-4. **Scan the QR code:**
-
-    Once the bot starts, a QR code will appear in the terminal. Scan this QR code using the Linked Devices feature in WhatsApp to connect your WhatsApp acc
-
-
 
    
 ## ⚠️ Important Warning
